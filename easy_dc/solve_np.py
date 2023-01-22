@@ -4,6 +4,8 @@ How to weave tapestry.
 1.  Spinning the yarn:
 The first step in making a tapestry is to create the yarn that will be used in the weaving process. This can be done by spinning raw fibers such
 as wool or cotton into long, thin strands using a spinning wheel or other tool.
+ 
+1a. Dyeing, coloring the yarn.
 
 2.  Setting up the loom:
 Once the yarn has been spun, the next step is to set up the loom on which the tapestry will be woven. This typically involves stretching a series
